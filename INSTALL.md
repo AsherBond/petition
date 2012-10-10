@@ -115,7 +115,7 @@ repackage Petition as an install profile. It doesn't harm anything to have
 them on. But for development, you may not want these modules hanging around
 your site adding unnecessary dependencies.
 
-Here is a list of modules that should be enabled for the system to run properly:
+7) Here is a list of modules that should be enabled for the system to run properly:
 <table>
   <tr>
      <th><B>Module Name</B></th>
