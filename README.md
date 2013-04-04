@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # We The People petitions application
 
 Drupal 7 code base used to build an application that lets users create and sign petitions.
@@ -94,3 +95,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
+=======
+This project has moved. Please visit https://github.com/WhiteHouse/petitions.
+========
+>>>>>>> 43c276a470ee4973065feb57805d7c0c5bc5efa2
